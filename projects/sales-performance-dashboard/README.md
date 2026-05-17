@@ -1,79 +1,111 @@
-Sales Performance Dashboard
-Business Problem
-A retail company needs a clear and interactive view of its sales performance to identify revenue trends, product opportunities, and underperforming segments.
-The goal is to support data‑driven decisions by providing insights into:
+# 📊 Sales & Profit Analytics Dashboard  
+### Power BI • Sales Performance • Customer Insights • KPI Reporting
 
-Monthly sales trends
+---
 
-Profitability patterns
+## 🔥 Overview  
+This project is a **Sales & Profit Analytics Dashboard** designed to provide a clear, data‑driven view of business performance across **sales**, **profitability**, **customer behavior**, and **regional/category trends**.
 
-Category and regional performance
+It combines **Sales KPIs** with **Power BI analytics**, ideal for roles in Sales Operations, Retention, Commercial Analysis, and Customer Experience.
 
-Customer segment behavior
+The dashboard was developed using professional standards (UX/UI, DAX, layout, storytelling) and can be used for **decision‑making**, **opportunity identification**, and **KPI improvement**.
 
-Dataset
-The dashboard is built using the Superstore dataset, a widely used sample dataset for analytics and BI projects.
+---
 
-Tools Used
-Power BI
+## 🎯 Business Purpose  
+This dashboard answers key commercial questions:
 
-Excel (data cleaning)
+- How do **sales** and **profit** evolve over time?  
+- Which product categories perform best?  
+- Which regions generate the highest revenue?  
+- What is the **profit margin** and how does it change?  
+- How many customers do we serve and how do they behave?  
+- Where are the opportunities for **upselling**, **cross‑selling**, or **retention actions**?
 
-DAX (measures & KPIs)
+---
 
-Key Features
-Executive KPI section (Total Sales, Total Profit, Profit Margin %, Avg Order Value)
+## 📌 Key Features  
+- **4 Executive KPIs**  
+  - Total Sales  
+  - Total Profit  
+  - Profit Margin %  
+  - Customer Count  
 
-Sales & Profit trend analysis with smoothing and markers
+- **Time‑Series Analysis**  
+  - Sales Trend Over Time  
+  - Profit Trend by Year & Month  
 
-Category and Region performance comparison
+- **Category Performance**  
+  - Sales by Category (Technology, Furniture, Office Supplies)
 
-Interactive slicers (Region, Category, Segment)
+- **Regional Performance**  
+  - Sales by Region (West, East, Central, South)
 
-Clean, modern theme with professional layout
+- **Interactive Filters (Slicers)**  
+  - Region  
+  - Category  
+  - Segment  
 
-Fully responsive visual alignment (Align, Distribute, Match Size)
+- **Professional UX/UI**  
+  - Consulting‑style layout  
+  - Consistent color palette  
+  - Shadows, spacing, alignment  
+  - Clean typography (Segoe UI)
 
-Approach
-Data cleaning and preparation in Excel
+---
 
-Import into Power BI
+## 🧠 Skills Demonstrated  
+- Power BI (Data Modeling, DAX, Visual Design)  
+- Sales Analytics & KPI Reporting  
+- Customer Insights & Retention Metrics  
+- Data Storytelling & Dashboard UX  
+- Business Performance Analysis  
+- Data‑Driven Decision Making  
 
-Creation of DAX measures for KPIs
+---
 
-Visual design using best practices (spacing, alignment, theme)
+## 📂 Files Included  
+| File | Description |
+|------|-------------|
+| **Sales_Performance_Dashboard.pbix** | Full Power BI file with visuals, DAX, and data model. |
+| **Sales_Performance_Dashboard.pdf** | Final dashboard presentation for recruiters / LinkedIn / portfolio. |
 
-Export to PDF for portfolio presentation
+---
 
-Upload to GitHub & LinkedIn for professional visibility
+## 🛠 Tools Used  
+- **Power BI Desktop**  
+- **DAX Measures**  
+- **Excel (data preparation)**  
+- **Professional UI/UX techniques**  
 
-Insights Delivered
-Identification of high‑performing product categories
+---
 
-Detection of profit dips and seasonal patterns
+## 📸 Dashboard Preview  
+*(Add 1–2 screenshots here once uploaded to GitHub)*
 
-Comparison of regional sales performance
+---
 
-Understanding of customer segment contribution to revenue
+## 🚀 How to Use  
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Use the slicers to filter data  
+4. Explore trends, KPIs, and insights for commercial decisions  
 
-Files Included
-Sales Performance Dashboard.pbix — Full Power BI report
+---
 
-Sales Performance Dashboard.pdf — Portfolio‑ready export
+## 👤 Author  
+**Konstantinos Tsamitros**  
+Sales & Customer Experience Professional • Data‑Driven Decision Making  
+LinkedIn: https://www.linkedin.com/in/konstantinos-tsamitros  
 
-README.md — Project documentation
+---
 
-How to Use
-Download the .pbix file
+## ⭐ Why This Project Matters  
+This dashboard demonstrates my ability to combine:
 
-Open in Power BI Desktop
+- **Sales expertise**  
+- **Customer retention knowledge**  
+- **Data analytics**  
+- **Power BI reporting**  
 
-Interact with slicers and visuals
-
-Explore trends, KPIs, and insights
-
-Author
-Konstantinos Tsamitros
-Data Analyst | Power BI | Python | Excel
-GitHub Portfolio: link to main repo  
-LinkedIn: your profile link
+…to support sales, retention, CX, and commercial operations teams with **actionable insights**.
