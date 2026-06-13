@@ -14,14 +14,14 @@ The purpose of this portfolio is to demonstrate strong capabilities in:
 ---
 
 ## 📁 Repository Structure
-projects
-├── sales-performance-dashboard
-│     └── README.md
-├── customer-retention-analytics
-│     └── README.md
-└── customer-transactions-analytics
-└── README.md
 
+**/projects**  
+&nbsp;&nbsp;&nbsp;├── **sales-performance-dashboard**  
+&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.md  
+&nbsp;&nbsp;&nbsp;├── **customer-retention-analytics**  
+&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.md  
+&nbsp;&nbsp;&nbsp;└── **customer-transactions-analytics**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.md  
 
 Each project folder includes:
 - Project-specific README  
